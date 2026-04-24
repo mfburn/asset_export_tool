@@ -7,7 +7,6 @@ Aддон для Blender, упрощающий экспорт ассетов в 
 
 Скачай или клонируй репозиторий:
 
-git clone https://github.com/yourname/asset-export-tool.git
 Открой Blender
 
 Перейди в:
